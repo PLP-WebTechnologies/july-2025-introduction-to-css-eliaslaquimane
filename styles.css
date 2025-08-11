@@ -43,3 +43,17 @@ h2 {
     margin: 0 auto 0 30px;
 }
 
+/* footer section style */
+
+footer {
+    background: black;
+    padding: 10px;
+}
+
+footer a {
+    color: #fff;
+}
+
+footer h3 {
+    color: #fff;
+}
